@@ -24,4 +24,4 @@ bundle exec cucumber
 ```
 
 <hr>
-Curso disponível em https://qaxperience.com
+Curso disponível em https://qax.com.br/pt/cursos
